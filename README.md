@@ -1,4 +1,4 @@
-# Rocco 的前端笔记
+# Rocco 的书签
 
 [我的博客](https://github.com/zh-rocco/fe-notes/issues)
 
@@ -17,6 +17,11 @@
 - [Design pattern implementations in TypeScript](https://github.com/torokmark/design_patterns_in_typescript)
 - [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 - [Style guide for adding type definitions to my npm packages](https://github.com/sindresorhus/typescript-definition-style-guide)
+- [TypeScript + 大型项目实战](https://juejin.im/post/5b54886ce51d45198f5c75d7)
+- [如使用Typescript撸Vue（Vue2 + TS +TSX+CSS module）](https://zhuanlan.zhihu.com/p/58351868)
+- [TypeScript 在 Vue 的实践](https://zhuanlan.zhihu.com/p/50179498)
+- [TypeScript 强大的类型别名](https://juejin.im/post/5c2f87ce5188252593122c98)
+- [巧用 Typescript](https://zhuanlan.zhihu.com/p/39620591)
 
 ## 函数式编程
 
@@ -29,6 +34,7 @@
 - [Vue 技术内幕](http://hcysun.me/vue-design/)
 - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 - [vue 源码逐行注释分析+40 多 m 的 vue 源码程序流程图思维导图](https://github.com/qq281113270/vue-ddf-)
+- [看Vue源码，不会调试不行啊](https://zhuanlan.zhihu.com/p/53206857)
 
 ## CSS
 
@@ -38,9 +44,10 @@
 - [css-protips - A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips)
 - [Devices.css - Modern devices in pure CSS](https://picturepan2.github.io/devices.css/)
 
-## 性能优化
+## 性能与安全
 
 - [网站性能优化实战——从 12.67s 到 1.06s 的故事](http://imweb.io/topic/5b6fd3c13cb5a02f33c013bd)
+- [前端性能与异常上报](https://zhuanlan.zhihu.com/p/40830370)
 
 ## 工具库
 
@@ -66,6 +73,7 @@
 - [webpack 优秀中文文章(印记中文)](https://github.com/webpack-china/awesome-webpack-cn)
 - [全面的 Webpack 教程《深入浅出 Webpack》电子书](https://github.com/gwuhaolin/dive-into-webpack)
 - [手摸手，带你用合理的姿势使用 webpack4（下）](https://segmentfault.com/a/1190000015919928)
+- [理解webpack原理，手写一个100行的webpack](https://zhuanlan.zhihu.com/p/58151131)
 
 ## NodeJS
 
