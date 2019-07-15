@@ -74,6 +74,7 @@
 - [全面的 Webpack 教程《深入浅出 Webpack》电子书](https://github.com/gwuhaolin/dive-into-webpack)
 - [手摸手，带你用合理的姿势使用 webpack4（下）](https://segmentfault.com/a/1190000015919928)
 - [理解webpack原理，手写一个100行的webpack](https://zhuanlan.zhihu.com/p/58151131)
+- [webpack 源码解析系列](https://github.com/lihongxun945/diving-into-webpack)
 
 ## NodeJS
 
